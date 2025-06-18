@@ -1,4 +1,3 @@
-<!ELEMENT data (#PCDATA)>
 <!ENTITY % start "<![CDATA[">
 <!ENTITY % goodies SYSTEM "https://internal.websec.cs.uni-paderborn.de/second">
 <!ENTITY % end "]]>">
