@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE data [
+<!ENTITY % start "<![CDATA[">
+<!ENTITY % site SYSTEM "https://internal.websec.cs.uni-paderborn.de/second">
+<!ENTITY % end "]]>">
+<!ENTITY all "%start;%site;%end;">
+]>
+<data>&all;</data>
